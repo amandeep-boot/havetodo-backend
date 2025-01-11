@@ -1,0 +1,19 @@
+{
+  "name": "havetodo-backend",
+  "version": "1.0.0",
+  "description": "This is havetodo backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandeep-boot/havetodo-backend.git"
+  },
+  "author": "Amandeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amandeep-boot/havetodo-backend/issues"
+  },
+  "homepage": "https://github.com/amandeep-boot/havetodo-backend#readme"
+}
